@@ -1,0 +1,12 @@
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.vbprojAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.frmAverageUnitsByEmployee.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.vbproj.GenerateResource.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.vbproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\bin\Debug\Lab3AverageUnitsShipped.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\bin\Debug\Lab3AverageUnitsShipped.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\bin\Debug\Lab3AverageUnitsShipped.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\bin\Debug\Lab3AverageUnitsShipped.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Lab3AverageUnitsShipped\Lab3AverageUnitsShipped\obj\Debug\Lab3AverageUnitsShipped.pdb
